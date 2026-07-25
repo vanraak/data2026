@@ -4,7 +4,6 @@
 
 | Notebook | Colab | Binder |
 ------------|-------|--------|
-
 |Credit Approval | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/credit_approval.ipynb#copy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fcredit_approval.ipynb) |
 |K-Means | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/kmeans.ipynb#copy)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fkmeans.ipynb) |
 |Loans | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/loans.ipynb#copy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Floans.ipynb) |
