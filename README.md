@@ -4,10 +4,8 @@
 
 | Notebook | Colab | Binder |
 ------------|-------|--------|
-|Credit Approval | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/credit_approval.ipynb#copy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fcredit_approval.ipynb) |
-|K-Means | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/kmeans.ipynb#copy)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fkmeans.ipynb) |
-|Loans | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/loans.ipynb#copy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Floans.ipynb) |
-|MNist | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/mnist.ipynb#copy) |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fmnist.ipynb) |
+|CreditCard Fraud | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/creditcard.ipynb#copy) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fcreditcard.ipynb) |
+|K-Means | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanraak/data2026/blob/main/taxizones.ipynb#copy)  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vanraak/data2026/HEAD?urlpath=%2Fdoc%2Ftree%2Fktaxizones.ipynb) |
 
 This repository and its contents are provided for educational purposes only.
 Unauthorized distribution or modification without permission is not allowed.
