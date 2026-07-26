@@ -2,4 +2,4 @@ scikit-learn
 pandas
 numpy
 matplotlib
-datadepot
+datadepot>=0.79
